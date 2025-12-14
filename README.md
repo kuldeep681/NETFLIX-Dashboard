@@ -16,8 +16,8 @@ This project presents an interactive Power BI dashboard built to analyze Netflix
 - Data Visualization
 
 ## 📂 Project Files
-- `Netflix_Dashboard.pbix` – Power BI dashboard file
-- `screenshots/` – Dashboard preview images
+- `NETFLIX INTERFACE.pbix` – Power BI dashboard file
+- `Screenshorts/` – Dashboard preview images
 
 ## 🖼 Dashboard Preview
 ![Dashboard Overview](Screenshorts/Dashboard.png)
