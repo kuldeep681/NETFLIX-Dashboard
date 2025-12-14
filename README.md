@@ -20,7 +20,7 @@ This project presents an interactive Power BI dashboard built to analyze Netflix
 - `screenshots/` – Dashboard preview images
 
 ## 🖼 Dashboard Preview
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](Screenshorts/Dashboard.png)
 
 ## 📌 How to Use
 1. Download the `.pbix` file
